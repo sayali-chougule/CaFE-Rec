@@ -1,0 +1,14 @@
+torch
+transformers
+torch-geometric
+datasets
+wandb
+numpy
+pandas
+scikit-learn
+tqdm
+sacrebleu
+rouge-score
+bert-score
+sentencepiece
+accelerate
